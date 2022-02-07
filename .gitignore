@@ -1,2 +1,5 @@
 # IDE
 .idea/
+/hw2/airflow/logs/
+*__pypache__/
+hw2/airflow/dags/__pycache__/
